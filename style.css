@@ -1,0 +1,142 @@
+body{
+    display: flex;
+    justify-content: center;
+    font-family: "Lato", sans-serif; 
+    color: #333333;
+    flex-wrap: nowrap;
+}
+.usec{
+    width: 495px;
+    height: 467px;
+    top: 135px;
+    left: 120px;
+    gap: 0px;
+    opacity: 0px;
+    margin-top: 135px;
+    margin-left: 120px;
+    margin-right: 45px;
+    margin-bottom: 307px;
+    justify-content: center;
+    align-items: center;
+}
+
+.ready{
+    font-size: 36px;
+    font-weight: 600;
+    line-height: 43.2px;
+    letter-spacing: 0.01em;
+    text-align: left;
+    width: 495px;
+    height: 43px;
+    gap: 0px;
+    opacity: 0px;
+    margin-left: 4px;
+    margin-right: 4px;
+}
+
+.lorem{
+    text-align: justify;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 20px;
+    width: 487px;
+    height: 60px;
+    top: 67px;
+    left: 4px;
+    gap: 0px;
+    opacity: 0px;
+    margin-top: 24px;
+    margin-left: 4px;
+    margin-right: 4px;
+}
+
+.start{
+    justify-self: center;
+    color: #FFFFFF;
+    width: Fixed (222px)px;
+    height: Fixed (66px)px;
+    top: 162px;
+    left: 136px;
+    padding: 24px 56px 24px 56px;
+    gap: 10px;
+    border-radius: 40px 40px 40px 40px;
+    opacity: 0px;
+    background: #333333;
+    font-size: 22px;
+    font-weight: 500;
+    line-height: 18px;
+    text-align: left;
+    margin-top: 35px;
+    margin-left: 135px;
+    margin-right: 135px;
+}
+
+.circle{
+    width: 495px;
+    height: 148px;
+    top: 454px;
+    left: 120px;
+    gap: 0px;
+    opacity: 0px;
+    margin-top: 91px;
+    flex-flow: row nowrap;
+}
+
+.sun{
+    margin-left: 24px;
+    margin-right: 24px;
+    width: 146px;
+    height: 146px;
+}
+.star{
+    width: 146px;
+    height: 146px;
+}
+.heart{
+    width: 146px;
+    height: 146px;
+}
+
+.dsec img
+{
+    background: #FFFFFF;
+    width: 302px;
+    height: 348px;
+    top: 519px;
+    left: 1012px;
+    border-radius: 40px;
+}
+
+.org{
+    display: flex;
+    height: 97vh;
+    flex-direction: column;
+    align-items: flex-end;
+}
+
+.org1{
+    margin-top: 42px;
+}
+
+.org2{
+    margin-top: 48px;
+}
+.org4{
+    margin-top: 48px;
+    margin-left: 48px;
+}
+
+.dsec{
+    display: flex;
+    height: 97vh;
+    flex-direction: row;
+    margin-right: 126px;
+}
+
+.org3{
+    display: flex;
+    height: 97vh;
+    flex-direction: column;
+    align-items: flex-end;
+    margin-top: 81px;
+}
